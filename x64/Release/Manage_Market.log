@@ -1,0 +1,8 @@
+﻿  SignUp.cpp
+C:\Users\ADMIN\source\repos\Manage_Market\Manage_Market\SignUp.cpp(18,9): warning C4101: 'Credit_ID': unreferenced local variable
+  Generating code
+  0 of 144 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Manage_Market.vcxproj -> C:\Users\ADMIN\source\repos\Manage_Market\x64\Release\Manage_Market.exe
